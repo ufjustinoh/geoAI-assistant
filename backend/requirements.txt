@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+geopandas
+folium
+openai
+python-dotenv
+python-multipart
+shapely
